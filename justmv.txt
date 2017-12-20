@@ -1,0 +1,1 @@
+I need to see what command is right in git just rm or git rm
